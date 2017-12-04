@@ -12,7 +12,7 @@ namespace Exceptions
 	public class ConverterProgram_Should : ReportingTest<ConverterProgram_Should>
 	{
 		// ReSharper disable once UnusedMember.Global
-		public static string Names = "ФАШИ ФАМИЛИИ ЧЕРЕЗ ПРОБЕЛ"; // Ivanov Petrov
+		public static string Names = "Annihilator team(Лифанов Исламов 4 столик)"; // Ivanov Petrov
 
 		private MemoryTarget log;
 
